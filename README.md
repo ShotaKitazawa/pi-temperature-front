@@ -8,10 +8,6 @@
     * ここ
 * 温湿度情報を出力する Slack Bot
 
-# Ref
-
-* https://github.com/gothinkster/vue-realworld-example-app
-
 ---
 
 # pi-temperature-front
